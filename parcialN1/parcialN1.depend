@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1590064111 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\chofer.c
+	"Chofer.h"
+
+1590030389 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\chofer.h
+	"input.h"
+	"validate.h"
+	<string.h>
+	<limits.h>
+	"arrays.h"
+
+1589751657 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589751557 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\validate.h
+
+1589751668 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1590235530 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Camion.h"
+
+1590068914 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\camion.h
+	<string.h>
+	<limits.h>
+	"Chofer.h"
+	"marca.h"
+
+1587278638 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\ordering.c
+	<string.h>
+
+1589769538 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1590235586 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\camion.c
+	"Camion.h"
+
+1590037213 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\arrays.h
+
+1590053146 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\arrays.c
+	<limits.h>
+	<stdio.h>
+
+1590067282 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\marca.h
+
+1590067417 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\parcialn1\marca.c
+	"marca.h"
+	<string.h>
+
