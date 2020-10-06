@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1587858657 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\alumno.c
+	"Alumno.h"
+	"input.h"
+
+1587858034 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\alumno.h
+	<stdio.h>
+
+1587273170 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587273333 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"input.h"
+
+1587273274 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\input.h
+
+1587858786 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\main.c
+	<stdlib.h>
+	"Alumno.h"
+	"input.h"
+	"validate.h"
+
+1587273308 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\estructuras\validate.h
+

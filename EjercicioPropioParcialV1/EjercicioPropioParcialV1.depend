@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1587880781 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1587880736 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\input.h
+
+1587880721 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1587876356 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mostrar.h"
+	"alumno.h"
+	"input.h"
+
+1587880392 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\validate.h
+
+1587876770 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\mostrar.c
+
+1587874078 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\mostrar.h
+
+1587876457 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"validate.h"
+	"string.h"
+	"limits.h"
+
+1587881806 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\ejerciciopropioparcialv1\alumno.c
+	"alumno.h"
+	"mostrar.h"
+

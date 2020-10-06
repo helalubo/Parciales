@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1587278638 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\ordering.c
+	<string.h>
+
+1589085480 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589085223 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\validate.h
+
+1589089648 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1589085450 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589099831 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\main.c
+	"contratacion.h"
+	"pantalla.h"
+
+1589100048 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\contratacion.c
+	"contratacion.h"
+
+1589087730 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\pantalla.h
+	"input.h"
+	"validate.h"
+	<string.h>
+	<limits.h>
+
+1589087756 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\pantalla.c
+	"pantalla.h"
+
+1589100025 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\modeloparcial2\contratacion.h
+	<string.h>
+	<limits.h>
+

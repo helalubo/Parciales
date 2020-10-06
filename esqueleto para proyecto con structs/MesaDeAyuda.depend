@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1588386235 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1588396638 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\validate.h
+
+1588396633 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1588385083 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1588473502 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\main.c
+	"llamada.h"
+
+1588473300 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\abonado.c
+	"abonado.h"
+
+1588471926 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\llamada.c
+	"llamada.h"
+
+1588458858 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\abonado.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"input.h"
+	"validate.h"
+
+1588469912 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\llamada.h
+	"abonado.h"
+	"input.h"
+	"validate.h"
+	"numbers.h"
+
+1586067223 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\numbers.h
+
+1586067244 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\mesadeayuda\numbers.c
+	<stdio.h>
+	<stdlib.h>
+

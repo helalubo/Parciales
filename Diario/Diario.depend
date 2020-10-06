@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1589435106 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589446317 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\validate.h
+
+1587278638 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\ordering.c
+	<string.h>
+
+1589436539 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1589446518 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589446821 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\cliente.c
+	"Cliente.h"
+
+1589447072 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\cliente.h
+	"input.h"
+	"validate.h"
+	<string.h>
+	<limits.h>
+
+1589445601 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Publicacion.h"
+
+1589447742 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\publicacion.h
+	<string.h>
+	<limits.h>
+	"Cliente.h"
+
+1589445469 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\diario\publicacion.c
+	"Publicacion.h"
+

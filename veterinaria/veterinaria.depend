@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1589085480 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589085223 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\validate.h
+
+1587278638 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\ordering.c
+	<string.h>
+
+1589089648 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1589085450 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589367331 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\cliente.c
+	"Cliente.h"
+
+1589361697 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\cliente.h
+	"input.h"
+	"validate.h"
+	<string.h>
+	<limits.h>
+
+1589368095 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\main.c
+	"Mascota.h"
+
+1589368032 c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\mascota.h
+	<string.h>
+	<limits.h>
+	"Cliente.h"
+
+1589368027 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\modelos de parciales\veterinaria\mascota.c
+	"Mascota.h"
+
+1590910178 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\cliente.c
+	"Cliente.h"
+
+1590909076 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\cliente.h
+	"input.h"
+	"validate.h"
+	<string.h>
+	<limits.h>
+
+1589085450 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1589085223 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\validate.h
+
+1589085480 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validate.h"
+
+1590909353 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\main.c
+	"Cliente.h"
+
+1589954175 c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\mascota.h
+	<string.h>
+	<limits.h>
+	"Cliente.h"
+
+1589955040 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\mascota.c
+	"Mascota.h"
+
+1587278638 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\ordering.c
+	<string.h>
+
+1589089648 source:c:\users\user\desktop\utn\laboratorioprogramacion 1b\otros\veterinaria\validate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
